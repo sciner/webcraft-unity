@@ -1,0 +1,437 @@
+Wavefront OBJ material file
+# Contains 32 materials
+
+newmtl Stone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Granite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Diorite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Andesite
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Grass_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dirt
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Stationary_Water
+Ns 216.75
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 4
+# d 0.535
+# Tr 0.465
+Tf 0.465 0.465 0.465
+
+newmtl Bubble_Column
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.03 0.03 0.03
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 4
+# d 0.535
+# Tr 0.465
+Tf 0.465 0.465 0.465
+
+newmtl Stationary_Lava
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 1 1 1
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+map_Ke madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sand
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Gravel
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Iron_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Coal_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Birch_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Oak_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Birch_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lapis_Lazuli_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Sandstone
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Grass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Dandelion
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Poppy
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Lily_of_the_Valley
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Clay
+Ns 140.25
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0.11 0.11 0.11
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Acacia_Leaves
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Acacia_Log
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Double_Tallgrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Peony
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Magma_Block
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ke 0.0894427 0.0894427 0.0894427
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+map_Ke madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Tall_Seagrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Seagrass
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGBA.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGBA.png
+map_d madcraft_test_mini-Alpha.png
+illum 2
+# d 1
+# Tr 0
+
+newmtl Copper_Ore
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+map_Ka madcraft_test_mini-RGB.png
+# for G3D, to make textures look blocky:
+interpolateMode NEAREST_MAGNIFICATION_TRILINEAR_MIPMAP_MINIFICATION
+map_Kd madcraft_test_mini-RGB.png
+illum 2
+# d 1
+# Tr 0
