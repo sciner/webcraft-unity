@@ -247,7 +247,7 @@ Material:
     - _CascadesNoisePower: 2.71
     - _CastShadows: 1
     - _ChromaticAberration: 0.1
-    - _CleanFalloffMultiply: 0.99
+    - _CleanFalloffMultiply: 0.14
     - _CleanFalloffPower: 0.2
     - _ClearWaterFalloff: 10
     - _Cull: 0
