@@ -3,7 +3,202 @@ guid: 8883eed1107075c4798142abd8e9c321
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acacia_Leaves
+    second: {fileID: 2100000, guid: b5df8c42dc8113a41bedaf6a67c59e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acacia_Log
+    second: {fileID: 2100000, guid: 353ef3bf721c30743b75f25e4b3e0edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Andesite
+    second: {fileID: 2100000, guid: 34dd0ea84e9dbbd4099f020e8e3300ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azure_Bluet
+    second: {fileID: 2100000, guid: f2a6fe4128dff1d419f67bf6a73aa20d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bee_Nest
+    second: {fileID: 2100000, guid: adac8196cb036fc4986d259d91163ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_Leaves
+    second: {fileID: 2100000, guid: e0d430ef2036abd4b9b7a514c82d39ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch_Log
+    second: {fileID: 2100000, guid: 85f0a5873f0ee7c4ca667c7e8426c80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bubble_Column
+    second: {fileID: 2100000, guid: 29d6a88f888325a40beda5fbbfb11284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clay
+    second: {fileID: 2100000, guid: dde5445dcc7f0ea459859a5f70bddc1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coal_Ore
+    second: {fileID: 2100000, guid: f494101dbd319bd478cdfb704905f6fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper_Ore
+    second: {fileID: 2100000, guid: 7d7b98e5f0f53b542bb6dfa95b514ca8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cornflower
+    second: {fileID: 2100000, guid: ab41d5694b1a8784790485c35d5fcad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dandelion
+    second: {fileID: 2100000, guid: e3a1ff8acddc5c34ca4886ce96496733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diorite
+    second: {fileID: 2100000, guid: edfec3bb741a5194fa687e88288eeed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: 4a2b1b81a6faa884c9b7378a83c47805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Double_Tallgrass
+    second: {fileID: 2100000, guid: 7d6ab4b7e7b0dfc478797bfbad222d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granite
+    second: {fileID: 2100000, guid: 56f88ce39f55be746b904d054a1b195a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: e63882f0a47674643b45f97415c30331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass_Block
+    second: {fileID: 2100000, guid: b6ba1a29cd492c44a8ac8801973c4c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gravel
+    second: {fileID: 2100000, guid: 5d504063d2ddc9a48ad4ec7d589d6710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron_Ore
+    second: {fileID: 2100000, guid: 8e1888f084f06c144897d5743b8bbe64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kelp
+    second: {fileID: 2100000, guid: 3bb09d411933f7a488072c7e88030ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lapis_Lazuli_Ore
+    second: {fileID: 2100000, guid: 1eb687947dca5e343a359c2184256d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lily_of_the_Valley
+    second: {fileID: 2100000, guid: 14b83dfc5371f424fbe4b1ee94c53686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magma_Block
+    second: {fileID: 2100000, guid: 308c612b9924fec44b0f2721ad97f0b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak_Leaves
+    second: {fileID: 2100000, guid: efdf3961345ece24fb6f6e619af43578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak_Log
+    second: {fileID: 2100000, guid: e7e097d61efb57e42880c7cd099677c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oxeye_Daisy
+    second: {fileID: 2100000, guid: 9fb9038f1c657b343aeb1106b9ce07b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peony
+    second: {fileID: 2100000, guid: 3d26dfa655fb74a44b543c0ee90e539e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poppy
+    second: {fileID: 2100000, guid: e8941b3fdd53c764db50d480c2005eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand
+    second: {fileID: 2100000, guid: 68746bdeb7bd1d04b9a33c688d0975d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sandstone
+    second: {fileID: 2100000, guid: 32992b808a5c22c459e13b9aebae0802, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seagrass
+    second: {fileID: 2100000, guid: 7cce57c3db1bdf541b87aedb4e77ede3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spruce_Log
+    second: {fileID: 2100000, guid: ba2b13b593892e74d806f562f8628ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stationary_Lava
+    second: {fileID: 2100000, guid: 916646d96f744fb40bf3d23c43e4e2a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stationary_Water
+    second: {fileID: 2100000, guid: e55cd514e8ac22e42b4f3adc73d8b537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 09a9c333104fcc5419f357a473fe72ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sugar_Cane
+    second: {fileID: 2100000, guid: 1e1c6a0c7e9db0247918c2293a18e6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tall_Seagrass
+    second: {fileID: 2100000, guid: e25ef21d37efa4b4893a57b759fb3ecc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
