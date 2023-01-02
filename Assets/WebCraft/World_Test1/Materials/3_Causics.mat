@@ -100,11 +100,11 @@ Material:
     - _Blend: 0
     - _BumpScale: 1
     - _Caustic_Brightness: 0.205
-    - _Caustic_Dimension_Speed: 0.116
-    - _Caustic_Distortion_Factor: 3
-    - _Caustic_Speed: 0.038
-    - _Caustic_Texture_Rotation: 97.6
-    - _Caustic_Tile: 0.1516
+    - _Caustic_Dimension_Speed: -0.68
+    - _Caustic_Distortion_Factor: 1.02
+    - _Caustic_Speed: 0.19
+    - _Caustic_Texture_Rotation: 92
+    - _Caustic_Tile: 0.2
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
     - _Cull: 2
@@ -122,7 +122,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0
+    - _Smoothness: 0.293
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -134,7 +134,7 @@ Material:
     - _BaseColor: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
     - _Color: {r: 0.4716981, g: 0.4716981, b: 0.4716981, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Emission_Color: {r: 0, g: 0.028970648, b: 0.0754717, a: 1}
+    - _Emission_Color: {r: 0.014239931, g: 0.091035195, b: 0.23584908, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _The_Texture_Tint: {r: 0.46201494, g: 0.53841513, b: 0.5943396, a: 0}
     - _Tile: {r: 100, g: 100, b: 0, a: 0}
